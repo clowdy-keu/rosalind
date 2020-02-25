@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46a9cc4f-ffba-47ed-91ad-1e39f8d2952a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TIMOHzAAnVAptfmwmoF3QMGwl7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\rosalind" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\rosalind" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.NumPy_tests">
+    <configuration name="Calculating Expected Offspring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculating Expected Offspring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculating Protein Mass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculating Protein Mass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mortal Fibonacci Rabbits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mortal Fibonacci Rabbits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NumPy_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="for_test_reason" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../for_test_reason" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../for_test_reason/NumPy_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rabbits and Recurrence Relations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="rosalind" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rabbits and Recurrence Relations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NumPy_tests" />
+        <item itemvalue="Python.Calculating Protein Mass" />
+        <item itemvalue="Python.Calculating Expected Offspring" />
+        <item itemvalue="Python.Mortal Fibonacci Rabbits" />
+        <item itemvalue="Python.Rabbits and Recurrence Relations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a9cc4f-ffba-47ed-91ad-1e39f8d2952a" name="Default Changelist" comment="" />
+      <created>1573143122311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573143122311</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom" timestamp="1575646964271">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964271" />
+    <state width="1345" height="119" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575387947895" />
+    <state width="1345" height="225" key="GridCell.Tab.0.center" timestamp="1575646964246">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.center/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964246" />
+    <state width="1345" height="119" key="GridCell.Tab.0.center/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575387947895" />
+    <state width="1345" height="225" key="GridCell.Tab.0.left" timestamp="1575646964246">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.left/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964246" />
+    <state width="1345" height="119" key="GridCell.Tab.0.left/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575387947895" />
+    <state width="1345" height="225" key="GridCell.Tab.0.right" timestamp="1575646964271">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.0.right/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964271" />
+    <state width="1345" height="119" key="GridCell.Tab.0.right/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575387947895" />
+    <state width="1345" height="225" key="GridCell.Tab.1.bottom" timestamp="1575646964297">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.1.bottom/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964297" />
+    <state width="1345" height="225" key="GridCell.Tab.1.bottom/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575385458167" />
+    <state width="1345" height="225" key="GridCell.Tab.1.center" timestamp="1575646964297">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.1.center/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964297" />
+    <state width="1345" height="225" key="GridCell.Tab.1.center/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575385458167" />
+    <state width="1345" height="225" key="GridCell.Tab.1.left" timestamp="1575646964297">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.1.left/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964297" />
+    <state width="1345" height="225" key="GridCell.Tab.1.left/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575385458167" />
+    <state width="1345" height="225" key="GridCell.Tab.1.right" timestamp="1575646964297">
+      <screen x="-1280" y="-226" width="1280" height="994" />
+    </state>
+    <state width="1345" height="225" key="GridCell.Tab.1.right/0.0.1366.738/-1280.-226.1280.994@-1280.-226.1280.994" timestamp="1575646964297" />
+    <state width="1345" height="225" key="GridCell.Tab.1.right/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575385458167" />
+    <state x="184" y="10" key="SettingsEditor" timestamp="1575384730363">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="10" key="SettingsEditor/0.0.1366.738/-1280.-226.1280.994@0.0.1366.738" timestamp="1575384730363" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../for_test_reason/NumPy_tests.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="init_string" />
+        <watch expression="item[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
